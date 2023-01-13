@@ -1,0 +1,9 @@
+ec\edu\ups\proyectoWeb\service\AppPath.class
+ec\edu\ups\proyectoWeb\Jsf23Activator.class
+ec\edu\ups\proyectoWeb\service\CORSFilter.class
+ec\edu\ups\proyectoWeb\service\PersonaRest.class
+ec\edu\ups\proyectoWeb\service\Respuesta.class
+ec\edu\ups\proyectoWeb\view\PersonaBeans.class
+ec\edu\ups\proyectoWeb\model\Persona.class
+ec\edu\ups\proyectoWeb\dao\PersonaDAO.class
+ec\edu\ups\proyectoWeb\bussines\GestionPersonaON.class
